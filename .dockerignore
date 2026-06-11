@@ -1,0 +1,11 @@
+node_modules
+dist
+build
+.tsbuildinfo
+*.zip
+.git
+.env
+.env.*
+!.env.example
+backend/node_modules
+backend/dist
